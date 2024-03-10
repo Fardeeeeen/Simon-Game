@@ -32,4 +32,4 @@ The project was developed using HTML, CSS, and JavaScript (jQuery). The developm
 Clone the repository to your local machine.
 Open the index.html file in your web browser.
 <strong>Video or Image:</strong>
-<img src = "" alt ="simon-game" />
+<img src = "https://github.com/Fardeeeeen/Simon-Game/blob/main/Simon%20game.png" alt ="simon-game" />
